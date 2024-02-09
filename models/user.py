@@ -1,4 +1,9 @@
 #!usr/bin/python3
+"""
+This module define a User class.
+"""
+
+
 from models.base_model import BaseModel
 
 
