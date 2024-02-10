@@ -10,5 +10,4 @@ class Amenity(base_model.BaseModel):
     """
     Amenity class represents an amenity that can be associated with a place.
     """
-
-     name = ""
+    name = ""

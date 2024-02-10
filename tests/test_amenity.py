@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime
-import models.amenity.Amenity
+from models.amenity import Amenity
 
 
 class Test_Amenity(unittest.TestCase):
