@@ -3,7 +3,7 @@
 This module define the City class
 """
 
-from models import base_molde
+from models import base_model
 
 
 class City(base_model.BaseModel):
